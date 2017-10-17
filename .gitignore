@@ -1,6 +1,7 @@
 *.o
 *.exe
 test.cpp
+test
 cmake*
 CMake*
 .idea
